@@ -2,12 +2,15 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Junior Frontend Developer** with experience in **HTML, CSS, JavaScript, and Git**.  
-I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm an enthusiastic and curious learner at the beginning of my frontend development journey.  
+Currently exploring the building blocks of the web HTML, CSS, and JavaScript, and developing projects to practice what I learn.  
+I'm excited to build meaningful user experiences and grow in the tech world.
 
-- 🌱 Currently learning: **JavaScript DOM manipulation, Git best practices, and responsive web design**  
-- 🔭 Working on: **Mini frontend projects to sharpen my skills and prepare for future open-source contributions**  
-- 🌍 Languages: **English, Arabic**
+## 🌱 Currently Learning  
+- JavaScript DOM manipulation  
+- Git best practices  
+- Responsive web design and accessibility  
+
 
 ### 🔧 Tech Stack
 
@@ -28,7 +31,8 @@ I love tackling complex problems, learning new skills, and collaborating with di
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aisha-ai715)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aisha-elabass-30842121b)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aishaelabass@gmail.com)
 
 ---
 
-Thanks for stopping by!
+**"Crafting beautiful and intuitive interfaces isn't just a goal, it's a journey of impact, one pixel and one line of code at a time."** 🚀
